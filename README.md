@@ -4,7 +4,6 @@ A simple Python game where you try to guess a number randomly chosen by the comp
 
 
 # How to play
-
 1. Enter your guesses.
 <br>
 2. Get hints if your guess is too high or too low.
@@ -14,7 +13,6 @@ A simple Python game where you try to guess a number randomly chosen by the comp
 4. Choose to play again or exit.
 
 # Features
-
 1. Tracks the number of attempts
 <br>
 2. Input validation for integers only
